@@ -1,0 +1,86 @@
+Recuperador de textos Web
+
+Archivos y carpetas que se encontraran:
+CARPETAS
+- src
+- bin
+- test 	-Html
+	-HtlmFiltrado
+- textos 	-detrabajo
+		-Diccionarios
+ARCHIVOS
+- Readme.txt
+- links.txt
+- script.pl
+- makefile
+
+Pasos a seguir para compilar el programa
+Desde consola colocarse en la carpeta donde se encuentra el makefile y colocar
+$ make
+
+Pasos a seguir para correr el programa
+Desde consola colocarse en la carpeta donde se encuentra el makefile y colocar
+$ make run
+
+Pasos a seguir para limpiar los .class
+Desde consola colocarse en la carpeta donde se encuentra el makefile y colocar
+$ make clean
+
+Al correr el programa se encantará con el siguiente menú
+
+1 - Filtrar Archivo HTML
+2 - Buscar
+3 - Mostrar árbol
+4 - Limpiar archivos.
+5 - Finalizar.
+Elegir opción (1-2-3-4-5): 
+
+A continuación se explicara el proceso de cada uno de los puntos del menú
+
+1 - Filtrar Archivo HTML
+Si es la primera vez que se fitra, se pedira el tamaño del nodo del arbol, verficando que sea del tipo 512*2^n. 
+Esta opción toma los Html de la carpeta (test/html/).
+En primer lugar tomamos el body del html, se saca los signos y se pasa todo a minúsculas.
+Luego de esto se pasa al Filtrado de Frases, el cual filtra frases conocidas por el método del tubo,
+cuando un termino supera este filtro se saca el primero del mismo y se coloca otro al final. El termino
+que se saco pasa al Filtro de Words, si lo supera finalmente se Filtra Por Stemming intercambiando las finalizaciones
+por *.
+Una ves finalizado el archivos se pasa a la carpeta test/htmlFiltrados.
+Este proceso se repite para todos los htlm de la carpeta antes mencionada.
+Una vez finalizado este proceso se crea un archivo de trabajo (textos/detrabajo) Terminos.dat, el cual es binario y contiene
+los términos ordenas con su lista de documentos.
+El último paso de este punto es crear el árbol con la ayuda del documento antes mencionado, el cual es eliminado al finalizar la creación del mismo.
+
+NOTA: durante la ejecución del programa se pueden agregar archivos en la carpeta (test/html/) y colocar esta opción nuevamente, agregando
+los términos de estos nuevos archivos a los que anteriormente fueron filtrados.
+
+NOTA 2: En la carpeta test/html se encuentran algunos archivos obtenidos con el script provisto por la catedra.
+
+2 - Buscar
+
+Al elegir esta opción, nos pide que coloquemos el o los términos a buscar de la siguiente manera:
+
+Escriba la consulta: 
+
+Escriba los términos a buscar separados por espacios y luego presione enter.
+Si el términos se encuentra en alguno de los archivos html, la consulta nos dará la siguiente información:
+1ero - Mostrara los términos luego de ser filtrados.
+2do - Lista de Documentos donde se encuentra el termino
+3ero - Titulo
+4to - Las tres primeras lineas del archivo html.
+5to - La cantidad de documentos donde se encontró el términos
+6to - Los segundos transcurridos desde elegida la opción 2
+7mo - Cantidad de KBytes transferidos en la consulta
+
+3 - Mostrar árbol
+
+Muestra el árbol creado.
+
+4 - Limpiar archivos.
+
+Este punto es para borrar todos los archivos involucrados con el programa y colocar (si hay) los archivos de la carpeta test/htmlfiltrado en la carpeta
+test/html y comenzar desde 0 la ejecución.
+
+5 - Finalizar
+
+Finaliza el programa. Dejando el árbol persistente en  disco, lo cual nos permite correr nuevamente le programa y buscar en el árbol creado en la ejecución anterior.
