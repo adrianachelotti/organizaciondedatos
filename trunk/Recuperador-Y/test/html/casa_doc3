@@ -1,0 +1,223 @@
+<html>
+<head>
+<title>fuendetodos :: Goya</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="compartidos/estilos.css" type="text/css">
+<script language="JavaScript" src="js/js_func.js"><!--
+--></script>
+
+
+<script language="JavaScript"><!--
+
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a    .length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a    .length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+--></script>
+
+
+</head>
+
+<body bgcolor="#8A201B" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('imagenes/nav_roll_01.jpg','imagenes/nav_roll_02.jpg','imagenes/nav_roll_03.jpg','imagenes/nav_roll_04.jpg','imagenes/nav_roll_05.jpg','imagenes/nav_roll_06.jpg','imagenes/nav_roll_07.jpg','imagenes/nav_roll_08.jpg','imagenes/nav_roll_09.jpg','imagenes/nav_roll_10.jpg','imagenes/nav_roll_11.jpg')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+  <tr>
+    <td align="center" valign="top" height="578"> 
+      <table width="754" border="0" cellspacing="0" cellpadding="0" align="center" height="61" bgcolor="#FFFFFF">
+        <tr valign="bottom"> 
+          <td width="354" height="51" align="left" background="imagenes/top.gif" ><img src="imagenes/transparente.gif" width="354" height="51" usemap="#Map2" border="0"></td>
+          <td height="51" width="284" align="right"><a href="obra_grafica_goya.htm" title=" Obra Gráfica de Francisco de Goya en Fuendetodos "><img src="imagenes/top_obragrafica2.gif" height="51" border="0"></a></td>
+          <td width="116" height="51" align="right"><img id="im" src="imagenes/casa04.jpg" width="116" height="51" name="global"></td>
+        </tr>
+        <tr>
+          <td bgcolor="#F89838" width="354" height="16"><img src="imagenes/transparente.gif" width="1" height="10" border="0"></td>          <td width="284" height="16" align="right" bgcolor="#F89838"><img src="imagenes/visita_virtual.gif" width="14" height="14" hspace="5"><a href="#" onClick="javascript:abreventana('http://www.geniuslociassociation.org/2000/_sp/goya/01.htm','vv',790,430,40,0);" class="sobre_naranja" >visita virtual&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="imagenes/mapa_web.gif" width="14" height="14" hspace="5"><a class="sobre_naranja" href="mapaweb.php">mapa web&nbsp;&nbsp;&nbsp;&nbsp;</a><img src="imagenes/el_tiempo.gif" width="14" hspace="5"><a class="sobre_naranja" href="http://www.inm.es/cgi-bin/locali.cgi?ig=50333" target="_blank">el tiempo</a></td>
+          
+          <td bgcolor="#F89838" width="116" height="16"><img src="imagenes/transparente.gif" width="1" height="10"></td>
+        </tr>
+      </table>
+      <map name="Map2"> 
+        <area shape="rect" coords="3,11,277,50" href="index.php" alt="   INICIO   " title="   INICIO   ">
+      </map>
+      <table width="754" border="0" cellspacing="0" cellpadding="0" height="250" align="center">
+        <tr> 
+          <td bgcolor="#FFFFFF" colspan="2" valign="top" align="center" width="638">
+		    <table width="95%" border="0" cellspacing="0" cellpadding="10" align="center">
+            	<tr valign="top"> 
+   				<!--***comienzo Texto central-->
+					
+                <td  colspan=4><img src="imagenes/titulo_casa.gif" width="250" height="30"></td>
+				</tr>
+				<tr>
+            	    
+                <td class="cuerpo" width="25%" colspan=1> <img src="imagenes/casa12.jpg" alt="Casa natal de Goya - Exterior" border=1 width="170" height="112">                </TD>
+					<td class="cuerpo" width="75%" colspan=3>
+				  		<div align="justify">Fuendetodos, pueblo natal de Francisco de 
+                    	Goya (1746-1828), se encuentra ubicado a 44 kil&oacute;metros 
+                    	al sureste de Zaragoza, a una altitud de 780 metros.<br>
+	                    La Casa Natal del pintor, fue documentada por el pintor Ignacio 
+	                    Zuloaga y un grupo de artistas zaragozanos en 1913. Lamentablemente, 
+	                    la Guerra Civil vino a destruirla parcialmente, por lo que 
+	                    hubo que ser restaurada en 1946. La Dirección General de Bellas 
+    	                Artes aprob&oacute; en 1981 el proyecto de una nueva restauración, 
+       		            siendo declarada Monumento Hist&oacute;rico Nacional en 1982.<bR>
+                    Los trabajos de remodelación finalizaron en 1985, procedi&eacute;ndose 
+                    a su inauguraci&oacute;n oficial el 13 de julio de ese año. 
+                    La casa conserva hoy todo el aspecto rústico y popular de 
+                    la &eacute;poca de Goya. <br>
+                  		</div>					</td>
+				</tr>
+				<tr>
+					
+                <td colspan=2><img src="imagenes/titulo_casa-edificio.gif" width="250" height="30"></td>				
+				</tr>
+				<tr>
+					<td class ="cuerpo" width="75%" colspan=3> 
+					
+                  <div align="justify"> Construida a principios del siglo XVIII, 
+                    esta casa pertenec&iacute;a a la familia de la madre de Francisco 
+                    de Goya, Dña. Gracia Lucientes. Interiormente, el edificio 
+                    posee todos los atributos y cualidades propias de una casa 
+                    de labradores. Consta de planta baja, con zagu&aacute;n, cuadra 
+                    y cocina. Unas s&oacute;lidas escaleras de piedra conducen 
+                    al piso superior, formado por la sala y dos alcobas. Por &uacute;ltimo 
+                    encontramos el granero, bajo cubierta a doble vertiente. La 
+                    casa se encuentra ambientada con muebles y enseres propios 
+                    de &eacute;poca de Goya, y documentación gr&aacute;fica. Resulta 
+                    interesante para el viajero. Incluso como lecci&oacute;n hist&oacute;rica 
+                    viva, poder contemplar un ambiente rural en su aut&eacute;ntica 
+                    dimensi&oacute;n de austeridad y pobreza, características 
+                    que influirían en el gusto sobrio del artista, como as&iacute; 
+                    dice en una carta a su buen amigo Mart&iacute;n Zapater: &quot;Para 
+                    mi casa no necesito de muchos muebles, pero me parece que 
+                    con una estampa de Nuestra Señor del Pilar, una mesa, cinco 
+                    sillas, una sart&eacute;n, una bota y un triple y asador y 
+                    candil todo lo dem&aacute;s es superfluo&quot; </div>		    	    </td>
+					<td class ="cuerpo" width="25%" colspan=1  valign="top"> 
+						<img src="imagenes/casa09.jpg" alt="Casa natal de Goya - Interior" border=1>					</td>
+				</tr>
+				<tr >
+					<td colspan=4 class="cuerpo" width="100%" align="center">
+						<hr color="#993333" width="100%" align="center" size="1">
+					 	<br>
+						<div align="center">
+						 HORARIO DE VISITAS<br>
+						De martes a domingo<br>
+						De 11 a 14 horas y de 16 a 19 horas<br>
+						Lunes cerrado (excepto festivos)<br>
+						Teléfono y Fax 976 14 38 30						</div>					</td>				
+	          </tr>
+            </table>		  </td>          
+          <td bgcolor="#F89838" width="116" valign="top"> 
+            <table width="116" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td height="16">
+                  <img src="imagenes/nav_roll_01.jpg" border="0" name="one" alt="   CASA NATAL de GOYA   "></td>
+              </tr>
+              <tr> 
+                <td height="16"> <a     href="museo.html"  onMouseOver="imageChange('global','alt2','two','graphic2on')" onMouseOut="imageChange('global','alt24','two','graphic2')"> 
+                  <img src="imagenes/nav_02.jpg" border="0" name="two" alt="   MUSEO del GRABADO   "></a></td>
+              </tr>
+              <tr> 
+                <td height="28"> <a     href="exposiciones/zuloaga.php"  onMouseOver="imageChange('global','alt3','three','graphic3on')" onMouseOut="imageChange('global','alt24','three','graphic3')"> 
+                  <img src="imagenes/nav_03.jpg" border="0" name="three" alt="   SALA de EXPOSICIONES IGNACIO ZULOAGA"   ></a></td>
+              </tr>
+              <tr> 
+                <td height="10"></td>
+              </tr>
+              <tr> 
+                <td height="16"> <a     href="neverones.html"  onMouseOver="imageChange('global','alt4','four','graphic4on')" onMouseOut="imageChange('global','alt24','four','graphic4')"> 
+                  <img src="imagenes/nav_04.jpg" border="0" name="four" alt="   LOS NEVERONES de FUENDETODOS   "></a></td>
+              </tr>
+              <tr> 
+                <td height="16"> <a     href="senderos.html"  onMouseOver="imageChange('global','alt5','five','graphic5on')" onMouseOut="imageChange('global','alt24','five','graphic5')"> 
+                  <img src="imagenes/nav_05.jpg" border="0" name="five" alt="   RED DE SENDEROS DE FUENDETODOS   "></a></td>
+              </tr>
+              <tr> 
+                <td height="26"> <a     href="patrimonio.html"  onMouseOver="imageChange('global','alt6','six','graphic6on')" onMouseOut="imageChange('global','alt24','six','graphic6')"> 
+                  <img src="imagenes/nav_06.jpg" border="0" name="six" alt="   OTROS PUNTOS DE INTERÉS   "></a></td>
+              </tr>
+              <tr> 
+                <td height="10"></td>
+              </tr>
+              <tr> 
+                <td height="16"> <a     href="genius/genius.php"  onMouseOver="imageChange('global','alt7','seven','graphic7on')" onMouseOut="imageChange('global','alt24','seven','graphic7')"> 
+                  <img src="imagenes/nav_07.jpg" border="0" name="seven" alt="   C.G.I.  GENIUS LOCI   "></a></td>
+              </tr>
+              <tr> 
+                <td height="16"> <a     href="servicios/servicios.php"  onMouseOver="imageChange('global','alt8','eight','graphic8on')" onMouseOut="imageChange('global','alt24','eight','graphic8')"> 
+                  <img src="imagenes/nav_08.jpg" border="0" name="eight" alt="   SERVICIOS TURÍSTICOS   "></a></td>
+              </tr>
+              <tr> 
+                <td height="16"> <a     href="actividades/actividades.php"  onMouseOver="imageChange('global','alt9','nine','graphic9on')" onMouseOut="imageChange('global','alt24','nine','graphic9')"> 
+                  <img src="imagenes/nav_09.jpg" border="0" name="nine" alt="   ACTIVIDADES TURÍSTICAS Y CULTURALES   "></a></td>
+              </tr>
+              <tr> 
+                <td height="16"> <a     href="comollegar.html"  onMouseOver="imageChange('global','alt10','ten','graphic10on')" onMouseOut="imageChange('global','alt24','ten','graphic10')"> 
+                  <img src="imagenes/nav_10.jpg" border="0" name="ten" alt="   LOCALIZACIÓN   "></a></td>
+              </tr>
+              <tr>
+                <td height="16"> <a     href="disparate.htm"  onMouseOver="imageChange('global','alt23','eleven','graphic11on')" onMouseOut="imageChange('global','alt24','eleven','graphic11')">
+                  <img src="imagenes/nav_11.jpg" border="0" name="eleven" alt="   DISPARATES   "></a></td>
+              </tr>
+  <tr><td align="center"><br><br><a href="http://www.fuendetodos.org/actividades/actividades.php?id=40" title="  Cursos de grabado  "><img src="imagenes/cursos_grabado.gif" width="112" height="51" border="0"></a><br>
+ <br></td></tr>  <tr><td align="center"><br><br><a href="concurso_cine.htm" title="  concurso de cine  "><img src="imagenes/concurso_cine.gif" width="112" height="51" border="0"></a><br>
+ <br></td></tr>
+ <tr><td align="center"><br><br><a href="fuendeverde.htm" title="  FUENDEVERDE  "><img src="imagenes/top_fuendeverde2.gif" height="51" border="0"></a><br><br></td></tr>
+		    </table></td></tr>
+        <tr> 
+          <td bgcolor="#FFFFFF" valign="bottom" align="left" width="245" height="75" colspan="2"><img src="imagenes/casa_superior01.jpg" width="245" height="40"></td>
+          <td width="116" height="50" valign="bottom" bgcolor="#F89838"> 
+            <table width="116" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="116"><img src="imagenes/resumen_idiomas.gif" width="116" height="35" border="0" usemap="#Map3" href="resume.html">
+                  <map name="Map3">
+                    <area shape="rect" coords="46,-6,123,15" href="summary.html">
+                    <area shape="rect" coords="41,17,118,33" href="#">
+                  </map></td>
+              </tr>
+              <tr>
+              <tr>
+                <td height="40"><img src="imagenes/goya_superior.gif" width="116" height="40"></td>
+              </tr>
+            </table>          </td>
+        </tr>
+      </table>
+      <table width="754" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr> 
+          <td><img src="imagenes/casa_inferior.jpg" width="754" height="77"></td>
+        </tr>
+        <tr> 
+          <td align="center" bgcolor="#F89838" class="blanco_negrita" height="18">Ayuntamiento de Fuendetodos c/ Cortes de Aragón, 7 50.142 Zaragoza Tfno.: 976 143 867 <a     href="mailto:info@fuendetodos.org" target="_blank" class="blanco_negrita">info@fuendetodos.org</a></td>
+        </tr>
+        <tr> 
+          <td align="center" height="24" class="blanco">powered by <a href="http://www.novania.com" title="  www.novania.com  "><img src="imagenes/logotxt_pq.gif" border="0" target="_blank"></a></td>
+        </tr>
+      </table>
+      <map name="Map"> 
+        <area shape="rect" coords="2,10,280,50" href="index.php" alt="   INICIO   " title="   INICIO   ">
+      </map>
+      <map name="MapMap"> 
+        <area shape="rect" coords="2,10,280,50" href="index.php" alt="   INICIO   " title="   INICIO   ">
+      </map>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Desarrollo web: Ejemplos</title>
+<META NAME="TITLE" content="Desarrollo web: Ejemplos">
+<meta name="Author" content="Posydi">
+<meta name="Generator" content="Posydi">
+<META NAME="KEYWORDS" CONTENT="diseño web en alicante, desarrollo de paginas web, promocion de paginas web, diseño web para empresas">
+<META NAME="DESCRIPTION" CONTENT="Ejemplos: En esta sección te mostramos algunos ejemplos de éxito de nuestros clientes que han usado la herramienta posydi para lanzar su empresa en internet">
+<META NAME="GOOGLEBOT" CONTENT="INDEX,FOLLOW,ALL">
+<META NAME="ROBOTS" CONTENT="INDEX,FOLLOW,ALL">
+<META NAME="REVISIT" CONTENT="7 days">
+<META NAME="NOW" CONTENT="2006-04-25 19:04">
+<META NAME="REVIEW" CONTENT="2006-04-25">
+<META NAME="REVISIT-AFTER" CONTENT="7 DAYS">
+<META NAME="POSICIONAMIENTO" CONTENT="WEBP-7.5">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="include/css/estilos_base.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" language="javascript"> callStats = "<script src=\"http://www.webpositer.net/log_clientes/botaccess.php?idS=7967&url="+document.URL+"\" type=\"text/javascript\"><"; callStats += "/script>"; document.write(callStats); </script>
+<script type='text/javascript' language='JavaScript' src='include/js/soopa-rollovers.js'></script>
+</head>
+
+<body onLoad="soopaSetup();">
+<div id="contenedor">
+
+    <div id="cabecera">
+    <a href="http://www.posydi.es"><img src="images/logo_posydi.gif" alt="Diseño de páginas web" width="158" height="60" border="0" align="left"></a>
+<div class='nav' style='float: right;'><a href='caracteristicas.html'><img src='images/menu_1.gif' longdesc='images/menu_1_h.gif' alt='Desarrollo web: Características' width='100' height='24' border='1'></a><a href='beneficios.html'><img src='images/menu_2.gif' longdesc='images/menu_2_h.gif' alt='Diseño web: Beneficios' width='73' height='24' border='1'></a><a href='tutorial.html'><img src='images/menu_3.gif' longdesc='images/menu_3_h.gif' alt='Creación de páginas web' width='63' height='24' border='1'></a><a href='inicio_tour.html'><img src='images/menu_4.gif' longdesc='images/menu_4_h.gif' alt='Cómo crear páginas web' width='46' height='24' border='1'></a><a href='faq.html'><img src='images/menu_5.gif' longdesc='images/menu_5_h.gif' alt='Diseño web: FAQ's' width='52' height='24' border='1'></a><a href='opiniones.html'><img src='images/menu_6.gif' longdesc='images/menu_6_h.gif' alt='Páginas web creadas: Opiniones' width='74' height='24' border='1'></a><a href='plantillas.html'><img src='images/menu_7.gif' longdesc='images/menu_7_h.gif' alt='Plantillas de páginas web' width='73' height='24' border='1'></a><a href='ejemplos.html'><img src='images/menu_8.gif' longdesc='images/menu_8_h.gif' alt='Ejemplos de páginas web' width='71' height='24' border='1'></a></div>
+
+
+        <div id="banner_sup" style="clear: both"><img src="images/cab2.jpg" width="770" height="169" alt="posydi"></div>
+		
+
+    </div>
+	
+    <div id='col_izq'>
+
+<script language="JavaScript">
+var Idt=Math.floor(Math.random()*1000); 
+if (typeof(document.referrer)!="undefined") var ref=document.referrer;
+else var ref="";
+var t="<scr"+"ipt "+"src='http://pc.wctrl.com/?c=5022&t="+Idt;
+t = t+"&ref="+escape(ref)+"'>"+"</scr"+"ipt>";
+document.write( t );
+</script>
+        <h1>Desarrollo web: Ejemplos</h1>
+		<p>En esta sección te mostramos algunos ejemplos de éxito de nuestros clientes:</p>
+
+		<table align="center">
+        <tr>
+          <td valign="top"><a href="http://www.turronworld.com" target="_blank"><img src="images/turronworld.gif" style="border: 1px solid #003366" alt="Elaboracion del turron"></a></td>
+          <td valign="top"><h3>www.turronworld.com</h3>
+            Un claro ejemplo de un cat&aacute;logo de productos con buen dise&ntilde;o
+            y una sala de prensa para las noticias del sector.</td>
+        </tr><tr>
+            <td valign="top"><a href="http://www.muebleseva.com" target="_blank"><img src="images/muebleseva.gif" style="border: 1px solid #003366" alt="Venta de muebles"></a></td>
+		  <td valign="top"><h3>www.muebleseva.com</h3>
+            Dise&ntilde;o de tipo lista vertical con cat&aacute;logo de productos
+            bien presentado, efectos javascript y animaciones flash.</td>
+        </tr>
+		<tr>
+		  <td valign="top"><a href="http://www.tengotenis.com" target="_blank"><img src="images/tengotenis.gif" style="border: 1px solid #003366" alt="Raquetas de tenis"></a></td>
+		  <td valign="top"><h3><a name="tengotenis" id="tengotenis"></a>www.tengotenis.com</h3>
+		    Una tienda plus con cat&aacute;logo de productos, carrito de la compra y autentificaci&oacute;n
+		    de usuarios registrados.</td>
+        </tr>
+        </table>
+
+
+	<p>&nbsp;</p>
+	</div>
+
+		<div id="col_der"><br />
+		 <a href="plantillas.html"><img src="images/banner_promocion_mes.gif" width="244" height="70" border="0" alt="Promocion del mes. Contrata Posydi ya y te regalamos una plantilla para el diseño de tu pagina web" class="margenInf"></a>
+		 <a href="webcontroler.html"><img src="images/banner_wcontroler.gif" width="244" height="106" border="0" alt="Gratis al contratar Posydi, la herramienta para controlar las visitas a tu web." class="margenInf"></a>
+		<table width="244" cellpadding="0" cellspacing="0" class="margenInf">
+		  <tr><td height="25"><img src="images/cab_scsh.jpg" width="244" height="25" border="0" alt="Screenshots"></td></tr>
+		  <tr><td width="244" height="50" align="center" valign="middle" bgcolor="#006633" style="padding-bottom: 10px;"><a href="screenshot_imagenes.html"><img src="images/scsh_contenido_imagenes.jpg" width="225" height="143" class="screenshot" alt="Ejemplo del panel de control"></a></td>
+		  </tr>
+		  <tr><td width="244" height="50" align="center" valign="middle" bgcolor="#006633"><a href="screenshot_ayuda.html"><img src="images/scsh_contenido_ayuda.jpg" width="225" height="143" class="screenshot" alt="Ejemplo del panel de control"></a></td>
+		  </tr>		
+		  <tr><td height="25"><img src="images/pie_scsh.jpg" width="244" height="25" border="0" alt="Screenshots"></td></tr>				
+		</table>
+		<img src="images/banner_versiones.gif" width="244" height="97" border="0" alt="Versiones" class="margenInf"> 
+		<img src="images/pagos_online.jpg" width="244" height="65" border="0" alt="Tipos de pago online" class="margenInf">
+        <a href="contactar.html"><img src="images/banner_contrata.gif" width="244" height="74" border="0" alt="Contactar" class="margenInf"></a>
+        <a href="modulo_tienda.html"><img src="images/banner_tienda1.gif" width="122" height="135" border="0" alt="Modulo de tienda basico" class="margenInf"></a><a  href="modulo_tienda.html"><img src="images/banner_tienda2.gif" width="122" height="135" border="0" alt="Modulo de tienda plus" class="margenInf"></a>
+        <img src="images/banner_posydinews.gif" width="244" height="74" border="0" alt="Gestion de noticias" class="margenInf">		</div>
+
+
+		<div id="footer">
+			<div class="footer_nav">
+			<table cellpadding="0" cellspacing="0" width="100%" border="0">
+			  <tr>
+			<td width="100%" align="left" valign="top"><a href="index.html">Home</a> | 
+			<a href="mapa_web.html">Mapa web</a> | 
+				<a href="http://www.posydi.es/empresas.html#romielyvila">Empresas que utilizan Posydi</a> | 
+				<a href="diseno-de-paginas-web.html">Diseño de paginas web</a> | 
+				<a href="posicionamiento_en_buscadores.html">Posicionamiento en buscadores</a> 
+                |  
+				<a href="contactar.html">Contactar</a> |
+			  <a href="aviso_legal.html">Aviso legal</a></td>
+			  	<td width="88" valign="top"><a href="http://www.qweb.es/empresas-de-diseno-web.html" target="_blank"><img src="http://www.qweb.es/certqweb-www.posydi.es.gif" width="97" height="31" border="0" alt="Directorio de Empresas de Diseño web"></a></td>
+				<td width="88" valign="top"><a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.posydi.es" target="blank"><img style="border:0;width:88px;height:31px"src="http://jigsaw.w3.org/css-validator/images/vcss" alt="¡CSS Válido!" border="0"></a></td>
+				<td width="88" valign="top"><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="http://www.w3.org/Icons/valid-html401" alt="Valid HTML 4.01 Transitional" height="31" width="88" border="0"></a></td></tr></table>
+			&copy; 2006 Posydi.es, todos los derechos reservados.
+		</div>
+	</div>	
+</body>
+</html>
